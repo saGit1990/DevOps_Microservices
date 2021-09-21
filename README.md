@@ -1,4 +1,4 @@
-<include a CircleCI status badge, here>
+![Image of circleci result] (https://github.com/saGit1990/DevOps_Microservices/blob/master/circleci%20Passed.JPG)
 
 ## Project Overview
 
