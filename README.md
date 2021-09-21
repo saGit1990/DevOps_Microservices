@@ -1,4 +1,4 @@
-![Image of circleci result](.output_txt_files/circleciPassed.png)
+![Image of circleci result](output_txt_files/circleciPassed.png)
 
 ## Project Overview
 
