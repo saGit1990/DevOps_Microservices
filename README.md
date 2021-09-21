@@ -1,4 +1,4 @@
-![Image of circleci result](output_txt_files/circleciPassed.png)
+[![CircleCI](https://circleci.com/gh/saGit1990/DevOps_Microservices.svg?style=svg)](https://circleci.com/gh/saGit1990/DevOps_Microservices/)
 
 ## Project Overview
 
