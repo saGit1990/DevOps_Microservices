@@ -1,4 +1,4 @@
-![Image of circleci result] (https://github.com/saGit1990/DevOps_Microservices/blob/master/circleci%20Passed.JPG)
+![Image of circleci result](.output_txt_files/circleciPassed.png)
 
 ## Project Overview
 
